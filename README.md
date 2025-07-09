@@ -1,6 +1,13 @@
 # GO-EU
 
-Norway+Sweden
+## Introduction
+
+一個畢業後決定殺去 Norway + Sweden 的旅程，和旅伴 - 友人 N
+前後規劃時程約兩個月，旅程主要會看一些峽灣景觀，以及欣賞當地特色建築、體驗風俗民情等。
+
+原本是因為我承諾我家兩老會撰寫充滿歡笑的遊記以供他們後續玩樂用，經友人 N 的~~不懷好意~~的激情推薦，當然我也覺得放在 github 應該是不錯的想法。
+
+以上。
 
 ## schedule
 
@@ -34,6 +41,14 @@ Norway+Sweden
 | 7/21 | Stockholm                          |
 | 7/22 | Stockholm                          |
 | 7/23 | Stockholm                          |
+
+<!-- ## Acknowledgements -
+
+I would like to express my deepest and most sincere gratitude to my parents, whose unwavering financial support and invaluable advice on itinerary planning have been indispensable to the completion of this endeavor.
+
+I am profoundly thankful to Mr. Huang, my travel companion par excellence, whose diligence and earnestness in his role as English translator were truly exemplary. His commendable punctuality, especially in financial matters—never once hesitating when payment was due—and his consistent avoidance of any delay, are qualities that merit the highest recognition. -- etc
+
+My heartfelt appreciation also extends to my esteemed roommates, Mr. Ma and Mr. Lin, for their generous provision of every dinner during my intensive periods of research. Their culinary contributions greatly enhanced both my efficiency and morale. -->
 
 ref
 
