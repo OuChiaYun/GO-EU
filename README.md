@@ -46,7 +46,7 @@
 
 I would like to express my deepest and most sincere gratitude to my parents, whose unwavering financial support and invaluable advice on itinerary planning have been indispensable to the completion of this endeavor.
 
-I am profoundly thankful to Mr. Huang, my travel companion par excellence, whose diligence and earnestness in his role as English translator were truly exemplary. His commendable punctuality, especially in financial matters—never once hesitating when payment was due—and his consistent avoidance of any delay, are qualities that merit the highest recognition. -- etc
+I am profoundly thankful to Mr. N, my travel companion par excellence, whose diligence and earnestness in his role as English translator were truly exemplary. His commendable punctuality, especially in financial matters—never once hesitating when payment was due—and his consistent avoidance of any delay, are qualities that merit the highest recognition. -- etc
 
 My heartfelt appreciation also extends to my esteemed roommates, Mr. Ma and Mr. Lin, for their generous provision of every dinner during my intensive periods of research. Their culinary contributions greatly enhanced both my efficiency and morale. -->
 
